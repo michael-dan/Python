@@ -1,1 +1,4 @@
-print ('Hello World')
+# print ('Hello World')
+
+message = 'Hello World'
+print (message)
